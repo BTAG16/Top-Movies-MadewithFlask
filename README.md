@@ -94,4 +94,3 @@ werkzeug==2.2.2
 ---
 
 Feel free to contribute, suggest improvements, or ask questions by opening an issue in this repository.
-```
